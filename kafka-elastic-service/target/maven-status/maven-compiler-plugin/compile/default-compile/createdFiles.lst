@@ -1,0 +1,4 @@
+il/co/migdal/ins/kafkaelastic/consumer/impl/TwitterKafkaConsumer.class
+il/co/migdal/ins/kafkaelastic/KafkaElasticServiceApplication.class
+il/co/migdal/ins/kafkaelastic/consumer/api/KafkaConsumer.class
+il/co/migdal/ins/kafkaelastic/transformer/AvroToElasticModelTransformer.class

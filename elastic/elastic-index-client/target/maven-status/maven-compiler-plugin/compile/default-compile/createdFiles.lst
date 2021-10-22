@@ -1,0 +1,5 @@
+il/co/migdal/ins/elastic/index/client/repository/TwitterElasticsearchIndexRepository.class
+il/co/migdal/ins/elastic/index/client/service/impl/TwitterElasticIndexClient.class
+il/co/migdal/ins/elastic/index/client/service/api/ElasticIndexClient.class
+il/co/migdal/ins/elastic/index/client/util/ElasticIndexUtil.class
+il/co/migdal/ins/elastic/index/client/service/impl/TwitterElasticRepositoryIndexClient.class

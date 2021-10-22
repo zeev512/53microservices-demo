@@ -1,0 +1,4 @@
+/home/zeev/workspaces/k8s/zeev/aligelenler/event-driven-ms/kafka/kafka-admin/src/main/java/il/co/migdal/ins/kafka/admin/config/KafkaAdminConfig.java
+/home/zeev/workspaces/k8s/zeev/aligelenler/event-driven-ms/kafka/kafka-admin/src/main/java/il/co/migdal/ins/kafka/admin/config/WebClientConfig.java
+/home/zeev/workspaces/k8s/zeev/aligelenler/event-driven-ms/kafka/kafka-admin/src/main/java/il/co/migdal/ins/kafka/admin/config/client/KafkaClientException.java
+/home/zeev/workspaces/k8s/zeev/aligelenler/event-driven-ms/kafka/kafka-admin/src/main/java/il/co/migdal/ins/kafka/admin/config/client/KafkaAdminClient.java

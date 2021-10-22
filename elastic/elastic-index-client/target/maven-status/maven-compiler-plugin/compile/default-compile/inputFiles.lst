@@ -1,0 +1,5 @@
+/home/zeev/workspaces/k8s/zeev/aligelenler/event-driven-ms/elastic/elastic-index-client/src/main/java/il/co/migdal/ins/elastic/index/client/service/impl/TwitterElasticIndexClient.java
+/home/zeev/workspaces/k8s/zeev/aligelenler/event-driven-ms/elastic/elastic-index-client/src/main/java/il/co/migdal/ins/elastic/index/client/repository/TwitterElasticsearchIndexRepository.java
+/home/zeev/workspaces/k8s/zeev/aligelenler/event-driven-ms/elastic/elastic-index-client/src/main/java/il/co/migdal/ins/elastic/index/client/service/api/ElasticIndexClient.java
+/home/zeev/workspaces/k8s/zeev/aligelenler/event-driven-ms/elastic/elastic-index-client/src/main/java/il/co/migdal/ins/elastic/index/client/service/impl/TwitterElasticRepositoryIndexClient.java
+/home/zeev/workspaces/k8s/zeev/aligelenler/event-driven-ms/elastic/elastic-index-client/src/main/java/il/co/migdal/ins/elastic/index/client/util/ElasticIndexUtil.java

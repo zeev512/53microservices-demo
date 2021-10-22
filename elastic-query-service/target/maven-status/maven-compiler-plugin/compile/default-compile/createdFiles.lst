@@ -1,0 +1,17 @@
+il/co/migdal/ins/elastic/query/service/impl/TwitterElasticQueryService.class
+il/co/migdal/ins/elastic/query/service/api/ElasticQueryService.class
+il/co/migdal/ins/elastic/query/model/ElasticQueryServiceResponseModelAssembler.class
+il/co/migdal/ins/elastic/query/transformer/ElasticToResponseModelTransformer.class
+il/co/migdal/ins/elastic/query/rest/ElasticDocumentController.class
+il/co/migdal/ins/elastic/query/model/ElasticQueryServiceWordCountResponseModel.class
+il/co/migdal/ins/elastic/query/service/QueryType.class
+il/co/migdal/ins/elastic/query/config/WebSecurityConfig.class
+il/co/migdal/ins/elastic/query/model/ElasticQueryServiceRequestModel.class
+il/co/migdal/ins/elastic/query/model/ElasticQueryServiceWordCountResponseModel$ElasticQueryServiceWordCountResponseModelBuilder.class
+il/co/migdal/ins/elastic/query/rest/ElasticQueryServiceErrorHandler.class
+il/co/migdal/ins/elastic/query/model/ElasticQueryServiceRequestModel$ElasticQueryServiceRequestModelBuilder.class
+il/co/migdal/ins/elastic/query/model/ElasticQueryServiceResponseModel$ElasticQueryServiceResponseModelBuilder.class
+il/co/migdal/ins/elastic/query/model/ElasticQueryServiceResponseModelV2.class
+il/co/migdal/ins/elastic/query/service/ElasticQueryServiceApplication.class
+il/co/migdal/ins/elastic/query/model/ElasticQueryServiceResponseModel.class
+il/co/migdal/ins/elastic/query/model/ElasticQueryServiceResponseModelV2$ElasticQueryServiceResponseModelV2Builder.class

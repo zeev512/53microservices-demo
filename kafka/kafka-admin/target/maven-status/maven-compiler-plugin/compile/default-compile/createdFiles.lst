@@ -1,0 +1,4 @@
+il/co/migdal/ins/kafka/admin/config/client/KafkaAdminClient.class
+il/co/migdal/ins/kafka/admin/config/KafkaAdminConfig.class
+il/co/migdal/ins/kafka/admin/config/WebClientConfig.class
+il/co/migdal/ins/kafka/admin/config/client/KafkaClientException.class

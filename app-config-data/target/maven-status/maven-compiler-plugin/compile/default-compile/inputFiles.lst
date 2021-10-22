@@ -1,0 +1,9 @@
+/home/zeev/workspaces/k8s/zeev/aligelenler/event-driven-ms/app-config-data/src/main/java/il/co/migdal/ins/kafka/config/KafkaProducerConfigData.java
+/home/zeev/workspaces/k8s/zeev/aligelenler/event-driven-ms/app-config-data/src/main/java/il/co/migdal/ins/kafka/config/UserConfigData.java
+/home/zeev/workspaces/k8s/zeev/aligelenler/event-driven-ms/app-config-data/src/main/java/il/co/migdal/ins/kafka/config/RetryConfigData.java
+/home/zeev/workspaces/k8s/zeev/aligelenler/event-driven-ms/app-config-data/src/main/java/il/co/migdal/ins/kafka/config/KafkaConfigData.java
+/home/zeev/workspaces/k8s/zeev/aligelenler/event-driven-ms/app-config-data/src/main/java/il/co/migdal/ins/kafka/config/TwitterToKafkaServiceConfigData.java
+/home/zeev/workspaces/k8s/zeev/aligelenler/event-driven-ms/app-config-data/src/main/java/il/co/migdal/ins/kafka/config/ElasticQueryConfigData.java
+/home/zeev/workspaces/k8s/zeev/aligelenler/event-driven-ms/app-config-data/src/main/java/il/co/migdal/ins/kafka/config/ElasticConfigData.java
+/home/zeev/workspaces/k8s/zeev/aligelenler/event-driven-ms/app-config-data/src/main/java/il/co/migdal/ins/kafka/config/ElasticQueryServiceConfigData.java
+/home/zeev/workspaces/k8s/zeev/aligelenler/event-driven-ms/app-config-data/src/main/java/il/co/migdal/ins/kafka/config/KafkaConsumerConfigData.java

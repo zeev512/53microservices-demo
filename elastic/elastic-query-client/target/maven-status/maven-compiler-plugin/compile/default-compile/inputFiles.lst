@@ -1,0 +1,6 @@
+/home/zeev/workspaces/k8s/zeev/aligelenler/event-driven-ms/elastic/elastic-query-client/src/main/java/il/co/migdal/ins/elastic/query/client/repository/TwitterElasticsearchQueryRepository.java
+/home/zeev/workspaces/k8s/zeev/aligelenler/event-driven-ms/elastic/elastic-query-client/src/main/java/il/co/migdal/ins/elastic/query/client/util/ElasticQueryUtil.java
+/home/zeev/workspaces/k8s/zeev/aligelenler/event-driven-ms/elastic/elastic-query-client/src/main/java/il/co/migdal/ins/elastic/query/client/service/impl/ElasticQueryClientException.java
+/home/zeev/workspaces/k8s/zeev/aligelenler/event-driven-ms/elastic/elastic-query-client/src/main/java/il/co/migdal/ins/elastic/query/client/service/impl/TwitterElasticQueryClient.java
+/home/zeev/workspaces/k8s/zeev/aligelenler/event-driven-ms/elastic/elastic-query-client/src/main/java/il/co/migdal/ins/elastic/query/client/service/impl/TwitterElasticRepositoryQueryClient.java
+/home/zeev/workspaces/k8s/zeev/aligelenler/event-driven-ms/elastic/elastic-query-client/src/main/java/il/co/migdal/ins/elastic/query/client/service/api/ElasticQueryClient.java
