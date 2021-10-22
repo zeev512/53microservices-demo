@@ -1,9 +1,0 @@
-/home/zeev/workspaces/k8s/zeev/aligelenler/event-driven-ms/twitter-to-kafka-service/src/main/java/il/co/migdal/ins/twitterkafka/stream/impl/KafkaStreamInitializer.java
-/home/zeev/workspaces/k8s/zeev/aligelenler/event-driven-ms/twitter-to-kafka-service/src/main/java/il/co/migdal/ins/twitterkafka/stream/api/StreamInitializer.java
-/home/zeev/workspaces/k8s/zeev/aligelenler/event-driven-ms/twitter-to-kafka-service/src/main/java/il/co/migdal/ins/twitterkafka/transformer/TwitterStatusToAvroTransformer.java
-/home/zeev/workspaces/k8s/zeev/aligelenler/event-driven-ms/twitter-to-kafka-service/src/main/java/il/co/migdal/ins/twitterkafka/runner/impl/MockKafkaStreamRunner.java
-/home/zeev/workspaces/k8s/zeev/aligelenler/event-driven-ms/twitter-to-kafka-service/src/main/java/il/co/migdal/ins/twitterkafka/TwitterToKafkaServiceApplication.java
-/home/zeev/workspaces/k8s/zeev/aligelenler/event-driven-ms/twitter-to-kafka-service/src/main/java/il/co/migdal/ins/twitterkafka/runner/api/StreamRunner.java
-/home/zeev/workspaces/k8s/zeev/aligelenler/event-driven-ms/twitter-to-kafka-service/src/main/java/il/co/migdal/ins/twitterkafka/runner/impl/TwitterToKafkaServiceException.java
-/home/zeev/workspaces/k8s/zeev/aligelenler/event-driven-ms/twitter-to-kafka-service/src/main/java/il/co/migdal/ins/twitterkafka/runner/impl/TwitterKafkaStreamRunner.java
-/home/zeev/workspaces/k8s/zeev/aligelenler/event-driven-ms/twitter-to-kafka-service/src/main/java/il/co/migdal/ins/twitterkafka/listener/TwitterKafkaStatusListener.java

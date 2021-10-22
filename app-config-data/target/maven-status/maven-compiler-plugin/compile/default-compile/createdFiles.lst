@@ -1,9 +1,0 @@
-il/co/migdal/ins/kafka/config/TwitterToKafkaServiceConfigData.class
-il/co/migdal/ins/kafka/config/RetryConfigData.class
-il/co/migdal/ins/kafka/config/KafkaConfigData.class
-il/co/migdal/ins/kafka/config/ElasticQueryConfigData.class
-il/co/migdal/ins/kafka/config/ElasticConfigData.class
-il/co/migdal/ins/kafka/config/KafkaProducerConfigData.class
-il/co/migdal/ins/kafka/config/KafkaConsumerConfigData.class
-il/co/migdal/ins/kafka/config/UserConfigData.class
-il/co/migdal/ins/kafka/config/ElasticQueryServiceConfigData.class

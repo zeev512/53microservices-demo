@@ -1,6 +1,0 @@
-il/co/migdal/ins/elastic/query/client/repository/TwitterElasticsearchQueryRepository.class
-il/co/migdal/ins/elastic/query/client/service/impl/TwitterElasticRepositoryQueryClient.class
-il/co/migdal/ins/elastic/query/client/service/api/ElasticQueryClient.class
-il/co/migdal/ins/elastic/query/client/service/impl/ElasticQueryClientException.class
-il/co/migdal/ins/elastic/query/client/service/impl/TwitterElasticQueryClient.class
-il/co/migdal/ins/elastic/query/client/util/ElasticQueryUtil.class

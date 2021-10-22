@@ -1,4 +1,0 @@
-/home/zeev/workspaces/k8s/zeev/aligelenler/event-driven-ms/kafka-elastic-service/src/main/java/il/co/migdal/ins/kafkaelastic/consumer/api/KafkaConsumer.java
-/home/zeev/workspaces/k8s/zeev/aligelenler/event-driven-ms/kafka-elastic-service/src/main/java/il/co/migdal/ins/kafkaelastic/transformer/AvroToElasticModelTransformer.java
-/home/zeev/workspaces/k8s/zeev/aligelenler/event-driven-ms/kafka-elastic-service/src/main/java/il/co/migdal/ins/kafkaelastic/consumer/impl/TwitterKafkaConsumer.java
-/home/zeev/workspaces/k8s/zeev/aligelenler/event-driven-ms/kafka-elastic-service/src/main/java/il/co/migdal/ins/kafkaelastic/KafkaElasticServiceApplication.java
